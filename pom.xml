@@ -61,11 +61,7 @@
             <version>2.19</version>
         </plugin>
     </plugins>
-	<plugin>
-  <groupId>org.apache.maven.plugins</groupId>
-  <artifactId>maven-war-plugin</artifactId>
-  <version>0.0.5</version>
-</plugin>
+
 </build>
 	
 </project>
